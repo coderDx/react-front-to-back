@@ -32,13 +32,13 @@ function FeedbackForm({handleAdd}) {
   const handleSubmit = (e) => {
     e.preventDefault()
 
-    console.log('Handling submit...')
-
     if(text.trim().length > 10) {
       const newFeedback = {
         text,
         rating
       }
+
+      
 
       handleAdd(newFeedback)
 
