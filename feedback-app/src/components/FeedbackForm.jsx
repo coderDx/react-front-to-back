@@ -58,7 +58,7 @@ function FeedbackForm() {
               type="text" 
               placeholder='Write a review' 
               onChange={handleTextChange}
-              vlaue={text}
+              value={text}
             />
             <Button type="submit" isDisabled={btnDisabled}>Send</Button>
           </div>
