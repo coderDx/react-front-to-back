@@ -3,17 +3,17 @@
     {
       "id": 1,
       "rating": 10,
-      "text": "this is feedback item 1 coming from the back end."
+      "text": "This is feedback item 1 coming from the back end."
     },
     {
       "id": 2,
       "rating": 8,
-      "text": "this is feedback item 2 coming from the back end."
+      "text": "This is feedback item 2 coming from the back end."
     },
     {
       "id": 3,
       "rating": 8,
-      "text": "this is feedback item 3 coming from the back end."
+      "text": "This is feedback item 3 coming from the back end."
     }
   ]
 }
